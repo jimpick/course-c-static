@@ -1,4 +1,3 @@
 # IPFS Camp 2019 Course C Materials
 
-## Prerequisites
-
+Moved to: https://github.com/ipfs-shipyard/camp-course-c-demo
